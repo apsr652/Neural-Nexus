@@ -1,0 +1,7 @@
+discord.py
+langchain
+transformers 
+chromadb
+huggingface_hub
+torch
+sentence-transformers
